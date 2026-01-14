@@ -10,8 +10,8 @@ app.use(express.json());
 
 // Sample data for testing
 const sampleConfig = {
-  classes: ['F3', 'F4', 'F1', 'F2', '10A', '10B', '11A', '11B'],
-  teachers: ['Mr. Smith', 'Ms. Johnson', 'Dr. Brown', 'Mrs. Davis', 'Mr. Wilson', 'Ms. Taylor'],
+  classes: ['F3', 'F4', 'F1', 'F2'],
+  teachers: ["Mr. Smith", "Dr. John", "Dr. Brown", "Ms. Johnson", "Mr. Wilson", "Mr. Rachel","Mrs. Davis","Mr. Will","Ms. Alice","Mr. Charlie","Mr. Bob"],
   rooms: ['Room 101', 'Room 102', 'Lab 1', 'Lab 2'],
   timeSlots: ['9:00-10:00', '10:00-11:00', '11:00-12:00', '12:00-1:00', '2:00-3:00', '3:00-4:00','4:00-5:00'],
   days: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
