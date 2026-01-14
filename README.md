@@ -128,6 +128,6 @@ Returns sample configuration data
 - Multi-campus support
 - Mobile responsive improvements
 
-## License
+{sample1.png}
 
-This is a prototype project for educational purposes.
+{sample2.png}
