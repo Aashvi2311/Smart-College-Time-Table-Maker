@@ -128,6 +128,6 @@ Returns sample configuration data
 - Multi-campus support
 - Mobile responsive improvements
 
-{sample1.png}
+[!Sample Image 1](sample1.png)
 
-{sample2.png}
+[!Sample Image 2](sample2.png)
